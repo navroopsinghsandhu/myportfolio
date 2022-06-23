@@ -1,4 +1,17 @@
 baseURL = 'https://navroopsinghsandhu.github.io/myportfolio/'
 languageCode = 'en-us'
 title = "A Software Developer's CV"
-theme = 'hugo-clarity'
+theme = 'm10c'
+
+
+[params]
+  author = "Navroop Singh"
+  description = "A well thought line here"
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    url = "https://github.com/navroopsinghsandhu"
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    url = "https://www.linkedin.com/in/navroop-singh-b985aa16a/"
