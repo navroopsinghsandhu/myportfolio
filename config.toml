@@ -6,7 +6,7 @@ theme = 'm10c'
 
 [params]
   author = "Navroop Singh"
-  description = "On a fun journey of Software Development"
+  description = "On a fun journey of software development"
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
