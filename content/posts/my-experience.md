@@ -22,7 +22,9 @@ Responsibilities:
 Learnings and upskilling: Working on this project has helped me grow in various aspects of my life as a developer. It has helped me improve my communication skills, designing the correct timeline for each task based on the amount of work that's required to complete it, understand the existing libraries and develop an implementation for the use within the application. A new skill that I learned in this project is working remotely and understanding the responsibilities that comes with remote work.
 
 Client feedback:
-{{< figure src="/myportfolio/upwork.jpg" height="600" width="1100">}}
+{{< figure src="/myportfolio/upwork.jpg" >}}
+{< img src="/myportfolio/upwork.jpg" title="Holding my first Android Smartphone: The HTC EVO 4G" >}
+![Some Image]("/myportfolio/upwork.jpg")
 
 # Charity Based Project
 Role: Front End Developer(Web Application)
