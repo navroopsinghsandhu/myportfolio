@@ -23,8 +23,6 @@ Learnings and upskilling: Working on this project has helped me grow in various 
 
 Client feedback:
 {{< figure src="/myportfolio/upwork.jpg" >}}
-{< img src="/myportfolio/upwork.jpg" title="Holding my first Android Smartphone: The HTC EVO 4G" >}
-![Some Image]("/myportfolio/upwork.jpg")
 
 # Charity Based Project
 Role: Front End Developer(Web Application)

@@ -4,7 +4,7 @@ date: 2022-06-20T18:31:58+10:00
 ---
 
 I have been part of multiple projects and almost all of them involved team work and timely delivery to client. Apart from the technical skills, I learned to design the timeline for the development phase with emphasis on better execution in programming, testing, debugging and resolving issues. I also learned the importance of communication and coordination within a team which increased the productivity in my work and the quality of product.
-{{< figure src="/myportfolio/contributions.jpg" height="400" width="1100" title="Git contributions" >}}
+{{< figure src="/myportfolio/contributions.jpg" title="Git contributions" >}}
 # Jamables Social Music App
 - Tech Stack: HTML, CSS, Javascript, Java, Cordova
 - App store link: https://apps.apple.com/au/app/jamables-live-social-music-app/id1529123673
@@ -25,5 +25,5 @@ A quick look at the application interfaces:
 - Tech Stack: Javascript(ReactJS), Python(Django), MySql
 - Description: A secured and interactive web application which implements https protocol for secure data transmission between the client and the server and hashing algorithm to store sensitive data in the database.
 
-{{< figure src="/myportfolio/entirety.jpg" height="500" width="800" title="Home Page" >}}
-{{< figure src="/myportfolio/entiretysecure.jpg" height="500" width="800" title="Secure Connection" >}}
+{{< figure src="/myportfolio/entirety.jpg"  title="Home Page" >}}
+{{< figure src="/myportfolio/entiretysecure.jpg" title="Secure Connection" >}}
