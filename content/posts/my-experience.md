@@ -37,7 +37,8 @@ My contributions include:
 Learnings and upskilling: This was my first project as a freelance software developer. I started working with a US based client with an aim to do front end modifications in the UI of a mobile application. Later on, I hopped on to do vital plugin developments which enabled me to exercise the approach of polyglot programming. I was able to exercise consulting skills that I learned in my previous job to deliver satisfactory services.
 
 Client feedback:
-{{< figure src="/myportfolio/upwork.jpg" >}}
+{{< figure src="/upwork.jpg" >}}
+
 
 
 
