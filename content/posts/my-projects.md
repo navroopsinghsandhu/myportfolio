@@ -16,14 +16,17 @@ A quick look at the application interfaces:
 
 
 # Atum-LMS
+Description: An online learning management system that provides a platform for organisations to provide training to their employees located in different locations. Training includes online courses for learning purposes and assessments and reports to track  employees' progress. Certification is provides upon successful completion of the training.
 - Tech Stack: HTML, CSS, JAVASCRIPT(Angular), PHP(Yii Framework), MYSQL
-- Description: An online learning management system that provides a platform for organisations to provide training to their employees located in different locations. Training includes online courses for learning purposes and assessments and reports to track  employees' progress. Certification is provides upon successful completion of the training.
+- Tools: VS Code
 
 # Entirety WebApp
+Description: The aim was to develop a website that facilitates a secure transmission of data over the network between the client and the server along with exercising the skills of full stack development
 - Website link: https://entiretyfrontend-kxsg7sxda-navroopsinghsandhu.vercel.app/
 - Github link: https://github.com/navroopsinghsandhu/entiretyfrontend
-- Tech Stack: Javascript(ReactJS), Python(Django), MySql
-- Description: A secured and interactive web application which implements https protocol for secure data transmission between the client and the server and hashing algorithm to store sensitive data in the database.
+- Tech Stack: HTML, CSS, Javascript(ReactJS), Python(Django), MySql
+- Tools: VS Code
+- Hosting: vercel(front end), pythonanywhere(backend)
 
 {{< figure src="/myportfolio/entirety.jpg"  title="Home Page" >}}
 {{< figure src="/myportfolio/entiretysecure.jpg" title="Secure Connection" >}}
