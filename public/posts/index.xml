@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Me on A Software Developer&#39;s CV</title>
-    <link>http://localhost:1313/myportfolio/</link>
-    <description>Recent content in About Me on A Software Developer&#39;s CV</description>
+    <title>Posts on A Software Developer&#39;s CV</title>
+    <link>http://localhost:1313/myportfolio/posts/</link>
+    <description>Recent content in Posts on A Software Developer&#39;s CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 20:02:44 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/myportfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/myportfolio/about/</link>
-      <pubDate>Thu, 23 Jun 2022 20:02:44 +1000</pubDate>
-      <guid>http://localhost:1313/myportfolio/about/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 20 Jun 2022 19:14:48 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/myportfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Data</title>
       <link>http://localhost:1313/myportfolio/posts/personal-data/</link>
